@@ -96,11 +96,11 @@ In the FileProcessor class I used pickling to save and retrieve data from the fi
 In the IO class I created methods to accomplish the necessary tasks, `menu_choice()`, `print_menu()`, `show_data()`, and `new_product`.
 
 The script runs in PyCharm (Figure 6).  
-<img src="IMAGES/Capture1.PNG">  
+<img src="Images/Capture1.PNG">  
 ***Figure 6. Script running in PyCharm.***
 
 The script runs in the Windows command prompt (Figure 7).  
-<img src="IMAGES/Capture2.PNG">  
+<img src="Images/Capture2.PNG">  
 ***Figure 7. Script running in Windows command prompt.***
 
 ## Summary
